@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **ahmedayaz881@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-4bzZaKH9KJCeFudYxGNL3hdtN08tSX9/view](https://drive.google.com/file/d/1-4bzZaKH9KJCeFudYxGNL3hdtN08tSX9/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-ayaz-1b1a38211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmed-ayaz-1b1a38211" height="30" width="40" /></a>
